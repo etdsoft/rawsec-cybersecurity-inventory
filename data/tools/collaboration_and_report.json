@@ -75,17 +75,17 @@
     },
     {
       "name": "Dradis CE",
-      "website": "http://drad.is/",
+      "website": "https://dradis.com/ce/",
       "source": "https://github.com/dradis/dradis-ce",
-      "description": "Collaborative penetration test, vulnerability database and reporting platform; Community edition",
+      "description": "Open-source collaborative penetration test, vulnerability database and reporting platform; Community Edition",
       "language": "Ruby",
       "price": "Free",
       "online": "False"
     },
     {
       "name": "Dradis Pro",
-      "website": "https://dradisframework.com/",
-      "description": "Collaborative penetration test, vulnerability database and reporting platform; Pro edition",
+      "website": "https://dradis.com/",
+      "description": "Self-hosted extensible penetration test management platform; Proffesional Edition",
       "language": "Ruby",
       "price": "Paid",
       "online": "False"
